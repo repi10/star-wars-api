@@ -3,3 +3,6 @@
 3. install using ```npm ci```
 4. run tests using ```npm run test```
 5. run app using ```npm start```
+
+docs are at:
+http://localhost:3000/api-docs/
